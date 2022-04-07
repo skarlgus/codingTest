@@ -15,6 +15,8 @@ public class test {
 			System.out.println("값이 같지 않습니다");
 		}
 		
+		System.out.println("codigTest");
+		
 	}
 
 }
